@@ -1,0 +1,6 @@
+djownload python and install
+
+-- make sure pip is updated
+python -m pip install -U pip setuptools
+
+python -m pip install pygame
